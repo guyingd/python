@@ -14,7 +14,7 @@
 
 ```
 pkg install git
-git clone https://github.com/chengzhnag/mock-time-postOffice.git
+git clone https://github.com/guyingd/python.git
 ```
 
 2. 安装python
@@ -35,8 +35,7 @@ ps: 后端接口默认端口3000
 4. 运行
 
 ```
-// mock-time-postOffice目录下运行
-npm run
+python guying.py
 ```
 
 
