@@ -26,10 +26,7 @@ pkg install python
 3. 安装模块
 
 ```
-.env.development  // 开发
-.env.production  // 生产
-修改文件中的'VUE_APP_BASE_API'配置
-ps: 后端接口默认端口3000
+
 ```
 
 4. 运行
